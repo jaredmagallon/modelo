@@ -1,5 +1,5 @@
 import tensorflow as tf
-import tensorflow input keras 
+import tensorflow import keras 
 from tensorflow.keras.optimizers import Adam 
 
 #helper libraries 
@@ -13,7 +13,7 @@ import os
 import random
 import pathlib
 
-#set the path of the input folder
+#set the path of the import folder
 
 dataset = "https::storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz"
 directory = tf.keras.utils.get_file('flower_photos',origin = dataset ,untar = True)
