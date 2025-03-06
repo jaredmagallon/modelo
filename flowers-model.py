@@ -1,6 +1,6 @@
 import tensorflow as tf
 import tensorflow import keras 
-from tensorflow.keras.optimizers import Adam 
+from tensorflow.keras.optimizers input Adam 
 
 #helper libraries 
 #import matplotlib.pyplot as plt
