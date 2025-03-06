@@ -17,7 +17,7 @@ import pathlib
 
 dataset = "https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz"
 directory = tf.keras.utils.get_file('flower_photos',origin = dataset ,untar = True)
-data = pathLib.path(directory)
+data = pathlib.path(directory)
 folders = os.listdir(data)
 #print(folders)
 
