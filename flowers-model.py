@@ -1,5 +1,5 @@
 import tensorflow as tf
-import tensorflow import keras 
+from tensorflow import keras 
 from tensorflow.keras.optimizers import Adam 
 
 #helper libraries 
