@@ -2,7 +2,7 @@ import tensorflow as tf
 from tensorflow import keras 
 from tensorflow.keras.optimizers import Adam 
 
-#helper libraries 
+#helper libraries  
 #import matplotlib.pyplot as plt
 import numpy as np
 from os import listdir
